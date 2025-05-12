@@ -1,2 +1,2 @@
 # CreeperCrawlerGame
-A game in C++, using OOP concepts.
+A Dungeon Combat game created in C++ using OOP.
